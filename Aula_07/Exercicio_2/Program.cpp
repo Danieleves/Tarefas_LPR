@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector <int> numeros(10);
+vector <int> numeros(10)
 int ocorrencias = 0;
 int i;
 
