@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\bin\Debug\net9.0\Exercicio_01.exe
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\bin\Debug\net9.0\Exercicio_01.deps.json
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\bin\Debug\net9.0\Exercicio_01.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\bin\Debug\net9.0\Exercicio_01.dll
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\bin\Debug\net9.0\Exercicio_01.pdb
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.dll
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\refint\Exercicio_01.dll
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.pdb
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\Exercicio_01.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR\Aulas\Aula_08\Exercicio_01\obj\Debug\net9.0\ref\Exercicio_01.dll
