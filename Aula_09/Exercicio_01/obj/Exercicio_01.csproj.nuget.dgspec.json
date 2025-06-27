@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercício_01\\Exercício_01.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercicio_01\\Exercicio_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercício_01\\Exercício_01.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercicio_01\\Exercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercício_01\\Exercício_01.csproj",
-        "projectName": "Exercício_01",
-        "projectPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercício_01\\Exercício_01.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercicio_01\\Exercicio_01.csproj",
+        "projectName": "Exercicio_01",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercicio_01\\Exercicio_01.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercício_01\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula_09\\Exercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
