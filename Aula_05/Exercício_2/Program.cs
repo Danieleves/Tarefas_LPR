@@ -4,7 +4,6 @@ using System.Runtime.InteropServices;
 
 class Program 
 {
-
     static void Main() {
 
         int tentativas = 0;

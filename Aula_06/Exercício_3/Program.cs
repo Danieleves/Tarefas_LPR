@@ -81,9 +81,7 @@ static void cadastrarHeroi (ref string nome1, ref string poder1, ref string nome
 ref string nome3, ref string poder3, ref string nome4, ref string poder4, ref string nome5, 
 ref string poder5, ref int pontuacao1, ref int pontuacao2, ref int pontuacao3, ref int pontuacao4, ref int pontuacao5, 
 ref string equipe1, ref string equipe2, ref string equipe3, ref int total) {
-
 int espaco;
-
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine("Aqui você irá cadastrar seu herói");
 Console.ResetColor();
