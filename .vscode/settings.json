@@ -1,3 +1,7 @@
 {
-    "dotnet.defaultSolution": "Exercicio_01.sln"
+    "dotnet.defaultSolution": "Exercicio_01.sln",
+    "files.associations": {
+        "xlocale": "cpp",
+        "iostream": "cpp"
+    }
 }
