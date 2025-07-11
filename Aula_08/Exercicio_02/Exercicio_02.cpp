@@ -1,10 +1,9 @@
 #include <iostream>
 #include <locale>
-#include <vector>
 
 using namespace std; 
 
-struct Livro {
+struct Livros {
     string Titulo;
     string Autor;
     int Anopublic;
@@ -12,45 +11,51 @@ struct Livro {
     float Preco;
 };
 
-float CalculoPreco(vector<Livros>){
-    float total = 0.0f;
-   for (int i = 0; i <Livro.size() ; i++) {
-        total += Livro[i].Preco;
+float CalculoPreco(Livros estoque[], int quantidade){
+    float total1 = 0.0f;
+   for (int i = 0; i < quantidade; i++) {
+        total1 += estoque[i].Preco;
     }
-    return total;
+    return total1;
+}
+
+double MediaPags(Livros estoque[], int quantidade){
+    int total2 = 0;
+    for(int i = 0; i<quantidade; i++){
+        total2 += estoque[i].Npag;
+    }
+    double media = (total2)/quantidade;
+    return media;
+
 }
 
 int main() {
     locale::global(locale("pt_BR.UTF-8"));
     cout.imbue(locale());
 
-    /*Defina uma struct Livro com os seguintes
-campos: Titulo, Autor, AnoPublicacao,
-NumeroPaginas e Preco. Crie um
-programa que permita ao usuário inserir
-dados de 3 livros e, em seguida, calcule e
-exiba o preço total dos livros cadastrados
-e a média de páginas dos livros.
-*/
-int quantidade;
+    int quantidade;
 cout << "Programa feito para ler informações de alguns livros e exibir o preço e a média de paginas total." << endl;
 cout << "-------------------------------------------------------------------------------------------------" << endl;
 cout << "Quantos livros deseja cadastrar?" << endl;
 cin >> quantidade;
+Livros* estoque = new Livros[quantidade];
 for (int i=0; i!=quantidade; i++){
-    Livro ai;
     cout << "Digite o título do " << i+1 << "º livro:";
-    cin >> ai.Titulo;
+    cin >> estoque[i].Titulo;
     cout << "Digite o autor do " << i+1 << "º livro:";
-    cin >> ai.Autor;
+    cin >> estoque[i].Autor;
     cout << "Digite o anode publicação do " << i+1 << "º livro:";
-    cin >> ai.Anopublic;
+    cin >> estoque[i].Anopublic;
     cout << "Digite a quantidade de páginas do " << i+1 << "º livro:";
-    cin >> ai.Npag;
+    cin >> estoque[i].Npag;
     cout << "Digite o preço do " << i+1 << "º livro:";
-    cin >> ai.Preco;
+    cin >> estoque[i].Preco;
 }
-CalculoPreco(vector<Livros>);
- 
+float total1 = CalculoPreco(estoque, quantidade);
+double media = MediaPags(estoque, quantidade);
+cout << "O preço total dos livros cadastrados é: R$" << total1 << endl;
+cout << "A média de páginas total dos livros é de: " << media << endl;
+
+ delete[] estoque;
 
 }
