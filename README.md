@@ -27,6 +27,6 @@ Repositório destinado ao armazenamento das atividades desenvolvidas durante o c
 
 ---
 
-** Contato email:** gabrielvasconcelos073965@gmail.com
+**Contato email:** gabrielvasconcelos073965@gmail.com
 
 
