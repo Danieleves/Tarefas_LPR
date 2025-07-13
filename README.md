@@ -25,4 +25,8 @@ Repositório destinado ao armazenamento das atividades desenvolvidas durante o c
 | 08     | Structs | C++ & C# | `Aula_08` |
 | 09     | Lista e Dicionário | C++ & C# | `Aula_09` |
 
+---
+
+** Contato email:** gabrielvasconcelos073965@gmail.com
+
 
